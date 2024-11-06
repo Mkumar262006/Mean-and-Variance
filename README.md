@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
 ## NAME :MANOJ KUMAR S
-## REGISTER NUMBER:212223240082
+## REGISTER NO:212223240082
 
 # Aim : 
 
